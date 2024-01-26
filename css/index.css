@@ -1,0 +1,29 @@
+.logo {
+	 float: left;
+}
+.container {
+	width: 1500px;
+	height: 400px;
+	background-image: linear-gradient(to right, #E2BCBB, #E4514A);
+	}
+ nav {
+	 float: right;
+}
+ nav ul {
+	 margin: 0;
+	 padding: 0;
+	 list-style: none;
+}
+ nav li {
+	 display: inline-block;
+}
+ body {
+	 background: #000000;
+	 color: #fff;
+}
+ a {
+	 color: #000000
+}
+ 
+
+
